@@ -15,12 +15,12 @@ Author: @submarinejuice
 ---
 
 ### 👩‍💻 About Me
-I’m a **Computer Science & Psychology** student (Computational + Cognitive Neuroscience) at **Wilfrid Laurier University**, passionate about bridging **artificial intelligence and human cognition**.  
+I’m a **Computer Science & Psychology** student (Computational + Cognitive Neuroscience Stream) + Business Management Option at **Wilfrid Laurier University**, passionate about bridging **artificial intelligence and human cognition**.  
 My work integrates **machine learning, fMRI/EEG analysis, and web-scale automation systems** to understand — and extend — the boundaries of intelligent behavior.
 
-- 🔬 **Current:** Software QA + AI Research @ *Environment & Climate Change Canada (ECCC)*  
-- 🧠 **Research:** ML-based brain network mapping (fMRI, TensorFlow, PyTorch)  
-- 🚀 **Leadership:** Co-President @ *UnityED (Enactus Canada)* – gamified SEL platform for youth  
+- 🔬 **Current:** Software QA @ *Environment & Climate Change Canada (ECCC)*  
+- 🧠 **Research:** ML-based brain network mapping for aging and developing brain networks (fMRI, TensorFlow, PyTorch)  
+- 🚀 **Leadership:** Co-President @ *UnityED (Enactus Canada)* – gamified SEL platform for students & teachers in grades 3-8
 - 🧩 **Vision:** Build intelligent systems that learn, reason, and empathize  
 
 ---
@@ -51,8 +51,8 @@ My work integrates **machine learning, fMRI/EEG analysis, and web-scale automati
 |:--|:--|:--|
 | [**UnityED**](https://submarinejuice.github.io/UnityED.github.io/) | Gamified EdTech startup teaching empathy through play; partnered with Waterloo DSB & Laurier Faculty | Unity • Firebase • Vite • C# |
 | [**Eye-Tracking ML Pipeline**](https://github.com/submarinejuice/eyetracker-study) | 30+ interactive research websites streaming Tobii data into ML pipelines for attention analysis | Python • Firebase • TensorFlow • WebGazer.js |
-| [**Dream Decoder**](https://github.com/submarinejuice/dream-decoder) | Maps dream descriptions to neural imagery using NLP and deep learning | PyTorch • NLP • fMRI Datasets |
-| [**HawkShop Modernization**](https://github.com/submarinejuice/hawkshop-redesign) | Refactored e-commerce system for Laurier’s bookstore; +47% user engagement | JS • Tailwind • NetSuite • Google Cloud |
+| [**Dream Decoder**](tbd) | Maps dream descriptions to neural imagery using NLP and deep learning | PyTorch • NLP • fMRI Datasets |
+| [**HawkShop Modernization**]| Refactored e-commerce system for Laurier’s bookstore; +47% user engagement | JS • Tailwind • NetSuite • Google Cloud |
 
 ---
 
@@ -72,7 +72,7 @@ My work integrates **machine learning, fMRI/EEG analysis, and web-scale automati
 
 ### 🎓 Education
 **Wilfrid Laurier University**  
-Honors BSc Computer Science & Psychology  
+Honors BSc Computer Science & Psychology + Business Management Option
 *Concentration: Computational Cognitive Neuroscience*  
 *Thesis: ML Analysis of fMRI Networks in Children*
 
@@ -86,8 +86,11 @@ Honors BSc Computer Science & Psychology
 </p>
 
 ---
+### 🎶 Now Playing on Spotify  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&redirect=true)
+---
 
 ### ⚡ Fun Facts
 - 🧩 Synesthetic thinker — I visualize data patterns and algorithms as colors and shapes  
-- ☕ Usually running on caffeine, deep learning papers, and instrumental playlists  
-- 🐱 Proud cat-mom + experimental chef + neuroscience podcast addict  
+- ☕ Usually running on caffeine, deep learning papers, Jazz playlists (i
+- 🐱 Proud cat-mom + experimental chef + neurophilosophy literature addict  
