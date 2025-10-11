@@ -1,9 +1,93 @@
-- 👋 Hi, I’m @submarinejuice
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Cognitive Neuroscience, Quantum Computing
-- 🌱 I’m currently learning Quantum Computing!
-- 💞️ I’m looking to collaborate on anything.
+<!--
+👋 Welcome to Michelle Chala’s GitHub Profile README
+Author: @submarinejuice
+-->
 
-<!---
-submarinejuice/submarinejuice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">🧠 Michelle Chala</h1>
+<h3 align="center">AI • Cognitive Neuroscience • Machine Learning Research</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/michelle-chala/"><img src="https://img.shields.io/badge/LinkedIn-Michelle%20Chala-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/submarinejuice"><img src="https://img.shields.io/badge/GitHub-submarinejuice-black?style=flat&logo=github"></a>
+  <a href="mailto:MichelleChala555@gmail.com"><img src="https://img.shields.io/badge/Email-MichelleChala555%40gmail.com-red?style=flat&logo=gmail"></a>
+</p>
+
+---
+
+### 👩‍💻 About Me
+I’m a **Computer Science & Psychology** student (Computational + Cognitive Neuroscience) at **Wilfrid Laurier University**, passionate about bridging **artificial intelligence and human cognition**.  
+My work integrates **machine learning, fMRI/EEG analysis, and web-scale automation systems** to understand — and extend — the boundaries of intelligent behavior.
+
+- 🔬 **Current:** Software QA + AI Research @ *Environment & Climate Change Canada (ECCC)*  
+- 🧠 **Research:** ML-based brain network mapping (fMRI, TensorFlow, PyTorch)  
+- 🚀 **Leadership:** Co-President @ *UnityED (Enactus Canada)* – gamified SEL platform for youth  
+- 🧩 **Vision:** Build intelligent systems that learn, reason, and empathize  
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</p>
+
+---
+
+### 🔬 Featured Projects
+
+| 🚀 Project | 🔍 Description | 🧠 Tech |
+|:--|:--|:--|
+| [**UnityED**](https://submarinejuice.github.io/UnityED.github.io/) | Gamified EdTech startup teaching empathy through play; partnered with Waterloo DSB & Laurier Faculty | Unity • Firebase • Vite • C# |
+| [**Eye-Tracking ML Pipeline**](https://github.com/submarinejuice/eyetracker-study) | 30+ interactive research websites streaming Tobii data into ML pipelines for attention analysis | Python • Firebase • TensorFlow • WebGazer.js |
+| [**Dream Decoder**](https://github.com/submarinejuice/dream-decoder) | Maps dream descriptions to neural imagery using NLP and deep learning | PyTorch • NLP • fMRI Datasets |
+| [**HawkShop Modernization**](https://github.com/submarinejuice/hawkshop-redesign) | Refactored e-commerce system for Laurier’s bookstore; +47% user engagement | JS • Tailwind • NetSuite • Google Cloud |
+
+---
+
+### 💼 Experience Highlights
+**Software QA Analyst – Environment & Climate Change Canada**  
+→ Built Python/TypeScript automation frameworks for 100+ government web apps  
+→ Integrated Azure DevOps dashboards & ML data pipelines reducing QA effort by 45%
+
+**Research Engineer – BrainWorx (Child Memory Lab)**  
+→ Developed ML pipelines for fMRI datasets; automated preprocessing for PyTorch models  
+→ Created brain-region heatmaps and ElasticNet regressions for memory studies  
+
+**Full-Stack Developer – HawkShop (University Bookstore)**  
+→ Modernized legacy NetSuite stack and led A/B testing with TensorFlow chatbot prototypes  
+
+---
+
+### 🎓 Education
+**Wilfrid Laurier University**  
+Honors BSc Computer Science & Psychology  
+*Concentration: Computational Cognitive Neuroscience*  
+*Thesis: ML Analysis of fMRI Networks in Children*
+
+---
+
+### 🌐 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/michelle-chala/"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/submarinejuice"><img src="https://img.shields.io/badge/-GitHub%20Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:MichelleChala555@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+### ⚡ Fun Facts
+- 🧩 Synesthetic thinker — I visualize data patterns and algorithms as colors and shapes  
+- ☕ Usually running on caffeine, deep learning papers, and instrumental playlists  
+- 🐱 Proud cat-mom + experimental chef + neuroscience podcast addict  
