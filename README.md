@@ -21,7 +21,13 @@ My work integrates **machine learning, fMRI/EEG analysis, and web-scale automati
 - 🔬 **Current:** Software QA @ *Environment & Climate Change Canada (ECCC)*  
 - 🧠 **Research:** ML-based brain network mapping for aging and developing brain networks (fMRI, TensorFlow, PyTorch)  
 - 🚀 **Leadership:** Co-President @ *UnityED (Enactus Canada)* – gamified SEL platform for students & teachers in grades 3-8
-- 🧩 **Vision:** Build intelligent systems that learn, reason, and empathize  
+- 🧩 **Vision:** Build intelligent systems that learn, reason, and empathize
+
+---
+---
+### 🎶 Now Playing on Spotify  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&redirect=true)
+---
 
 ---
 
@@ -51,7 +57,7 @@ My work integrates **machine learning, fMRI/EEG analysis, and web-scale automati
 |:--|:--|:--|
 | [**UnityED**](https://submarinejuice.github.io/UnityED.github.io/) | Gamified EdTech startup teaching empathy through play; partnered with Waterloo DSB & Laurier Faculty | Unity • Firebase • Vite • C# |
 | [**Eye-Tracking ML Pipeline**](https://github.com/submarinejuice/eyetracker-study) | 30+ interactive research websites streaming Tobii data into ML pipelines for attention analysis | Python • Firebase • TensorFlow • WebGazer.js |
-| [**Dream Decoder**](tbd) | Maps dream descriptions to neural imagery using NLP and deep learning | PyTorch • NLP • fMRI Datasets |
+| [**Dream Decoder**] | Maps dream descriptions to neural imagery using NLP and deep learning | PyTorch • NLP • fMRI Datasets |
 | [**HawkShop Modernization**]| Refactored e-commerce system for Laurier’s bookstore; +47% user engagement | JS • Tailwind • NetSuite • Google Cloud |
 
 ---
@@ -86,11 +92,8 @@ Honors BSc Computer Science & Psychology + Business Management Option
 </p>
 
 ---
-### 🎶 Now Playing on Spotify  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&redirect=true)
----
 
 ### ⚡ Fun Facts
 - 🧩 Synesthetic thinker — I visualize data patterns and algorithms as colors and shapes  
-- ☕ Usually running on caffeine, deep learning papers, Jazz playlists (i
+- ☕ Usually running on caffeine, deep learning papers, Jazz playlists, & an unhealthy amount of mood lighting!
 - 🐱 Proud cat-mom + experimental chef + neurophilosophy literature addict  
