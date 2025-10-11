@@ -51,17 +51,6 @@ My work integrates **machine learning, fMRI/EEG analysis, and web-scale automati
 
 ---
 
-### 🔬 Featured Projects
-
-| 🚀 Project | 🔍 Description | 🧠 Tech |
-|:--|:--|:--|
-| [**UnityED**](https://submarinejuice.github.io/UnityED.github.io/) | Gamified EdTech startup teaching empathy through play; partnered with Waterloo DSB & Laurier Faculty | Unity • Firebase • Vite • C# |
-| [**Eye-Tracking ML Pipeline**](https://github.com/submarinejuice/eyetracker-study) | 30+ interactive research websites streaming Tobii data into ML pipelines for attention analysis | Python • Firebase • TensorFlow • WebGazer.js |
-| [**Dream Decoder**] | Maps dream descriptions to neural imagery using NLP and deep learning | PyTorch • NLP • fMRI Datasets |
-| [**HawkShop Modernization**]| Refactored e-commerce system for Laurier’s bookstore; +47% user engagement | JS • Tailwind • NetSuite • Google Cloud |
-
----
-
 ### 💼 Experience Highlights
 **Software QA Analyst – Environment & Climate Change Canada**  
 → Built Python/TypeScript automation frameworks for 100+ government web apps  
