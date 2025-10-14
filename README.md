@@ -3,7 +3,7 @@
 Author: @submarinejuice
 -->
 
-<h1 align="center">🧠 Michelle Chala</h1>
+<h1 align="center">Michelle Chala</h1>
 <h3 align="center">AI • Cognitive Neuroscience • Machine Learning Research</h3>
 
 <p align="center">
@@ -20,10 +20,9 @@ My work integrates **machine learning, fMRI/EEG analysis, and web-scale automati
 
 - 🔬 **Current:** Software QA @ *Environment & Climate Change Canada (ECCC)*  
 - 🧠 **Research:** ML-based brain network mapping for aging and developing brain networks (fMRI, TensorFlow, PyTorch)  
-- 🚀 **Leadership:** Co-President @ *UnityED (Enactus Canada)* – gamified SEL platform for students & teachers in grades 3-8
+- 🚀 **Leadership:** Co-President @ *UnityED (Enactus Canada)* – gamified SEL platform for students & teachers in grades 3-8, VP of Internal Relations @ _Laurier Computing Society_
 - 🧩 **Vision:** Build intelligent systems that learn, reason, and empathize
 
----
 ---
 ### 🎶 Now Playing on Spotify  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&redirect=true)
@@ -83,6 +82,6 @@ Honors BSc Computer Science & Psychology + Business Management Option
 ---
 
 ### ⚡ Fun Facts
-- 🧩 Synesthetic thinker — I visualize data patterns and algorithms as colors and shapes  
-- ☕ Usually running on caffeine, deep learning papers, Jazz playlists, & an unhealthy amount of mood lighting!
-- 🐱 Proud cat-mom + experimental chef + neurophilosophy literature addict  
+- 🧩 Synesthetic thinker; I visualize data patterns and algorithms as colors and shapes!  
+- ☕ Usually running on caffeine, deep learning papers, Jazz playlists, and my passion for photography!
+- 🐱 Proud cat-mom + experimental chef + neurophilosophy literature lover  :)
