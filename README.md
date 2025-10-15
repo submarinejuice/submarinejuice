@@ -60,7 +60,7 @@ My work integrates **machine learning, fMRI/EEG analysis, and web-scale automati
 → Created brain-region heatmaps and ElasticNet regressions for memory studies  
 
 **Full-Stack Developer – HawkShop (University Bookstore)**  
-→ Modernized legacy NetSuite stack and led A/B testing with TensorFlow chatbot prototypes  
+→ Sole developer in Modernizing legacy NetSuite stacks, redesigning pages, implementing custom order pages (designs + functionalities + new features) and leading A/B testing and performance analytics
 
 ---
 
