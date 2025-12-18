@@ -9,6 +9,9 @@ Author: @submarinejuice
 <p align="center">
   <a href="https://www.linkedin.com/in/michelle-chala/"><img src="https://img.shields.io/badge/LinkedIn-Michelle%20Chala-blue?style=flat&logo=linkedin"></a>
   <a href="https://github.com/submarinejuice"><img src="https://img.shields.io/badge/GitHub-submarinejuice-black?style=flat&logo=github"></a>
+  <a href="https://unityed.site">
+  <img src="https://img.shields.io/badge/UnityED-Live%20Project-7B5CF0?style=flat&logo=unity&logoColor=white">
+</a>
   <a href="mailto:MichelleChala555@gmail.com"><img src="https://img.shields.io/badge/Email-MichelleChala555%40gmail.com-red?style=flat&logo=gmail"></a>
 </p>
 
