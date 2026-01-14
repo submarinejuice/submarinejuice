@@ -4,7 +4,7 @@ Author: @submarinejuice
 -->
 
 <h1 align="center">Michelle Chala</h1>
-<h3 align="center">AI • Cognitive Neuroscience • Machine Learning Research</h3>
+<h3 align="center">AI • Cognitive Neuroscience • Machine Learning Research • Quantum Algorithm Computation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/michelle-chala/"><img src="https://img.shields.io/badge/LinkedIn-Michelle%20Chala-blue?style=flat&logo=linkedin"></a>
