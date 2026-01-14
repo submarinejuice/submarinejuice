@@ -21,7 +21,7 @@ Author: @submarinejuice
 I’m a Computer Science & Psychology student (Computational + Cognitive Neuroscience Stream) + Business Management Option at Wilfrid Laurier University, passionate about bridging artificial intelligence, human cognition, and market analysis.
 My work integrates **machine learning, Artificial Intelligence Engineering, Research Systems Engineering, fMRI/EEG analysis, and web-scale automation systems** to understand — and extend — the boundaries of intelligent behavior.
 
-- 🔬 **Current:** Software QA @ *Environment & Climate Change Canada (ECCC)*  
+- 🔬 **Current:** Quantum Machine Learning Engineer & Software Quality Assurance Automation Engineer @ *Environment & Climate Change Canada (ECCC)*  
 - 🧠 **Research:** ML-based brain network mapping for aging and developing brain networks (fMRI, TensorFlow, PyTorch, Nilearn, High Performance Computing, Quantum Machine Learning Computational Algorithms)  
 - 🚀 **Leadership:** Co-President @ *UnityED (Enactus Canada)* – gamified SEL platform for students & teachers in grades 3-8, VP of Internal Relations @ _Laurier Computing Society_
 
