@@ -18,13 +18,13 @@ Author: @submarinejuice
 ---
 
 ### 👩‍💻 About Me
-I’m a **Computer Science & Psychology** student (Computational + Cognitive Neuroscience Stream) + Business Management Option at **Wilfrid Laurier University**, passionate about bridging **artificial intelligence and human cognition**.  
-My work integrates **machine learning, fMRI/EEG analysis, and web-scale automation systems** to understand — and extend — the boundaries of intelligent behavior.
+I’m a Computer Science & Psychology student (Computational + Cognitive Neuroscience Stream) + Business Management Option at Wilfrid Laurier University, passionate about bridging rtificial intelligence, human cognition, and market analysis.
+My work integrates **machine learning, Artificial Intelligence Engineering, Research Systems Engineering, fMRI/EEG analysis, and web-scale automation systems** to understand — and extend — the boundaries of intelligent behavior.
 
 - 🔬 **Current:** Software QA @ *Environment & Climate Change Canada (ECCC)*  
-- 🧠 **Research:** ML-based brain network mapping for aging and developing brain networks (fMRI, TensorFlow, PyTorch)  
+- 🧠 **Research:** ML-based brain network mapping for aging and developing brain networks (fMRI, TensorFlow, PyTorch, Nilearn, High Performance Computing, Quantum Machine Learning Computational Algorithms)  
 - 🚀 **Leadership:** Co-President @ *UnityED (Enactus Canada)* – gamified SEL platform for students & teachers in grades 3-8, VP of Internal Relations @ _Laurier Computing Society_
-- 🧩 **Vision:** Build intelligent systems that learn, reason, and empathize
+
 
 ---
 ### 🎶 Now Playing on Spotify  
