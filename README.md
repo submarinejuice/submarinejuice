@@ -54,11 +54,15 @@ My work integrates **machine learning, Artificial Intelligence Engineering, Rese
 ---
 
 ### 💼 Experience Highlights
-**Software QA Analyst – Environment & Climate Change Canada**  
+**Software Automation Quality Assurance Analyst – Environment & Climate Change Canada**  
 → Built Python/TypeScript automation frameworks for 100+ government web apps  
 → Integrated Azure DevOps dashboards & ML data pipelines reducing QA effort by 45%
 
-**Research Engineer – BrainWorx (Child Memory Lab)**  
+**Software Quantum Machine Learning Engineer – Environment & Climate Change Canada**  
+→ Built Dashboards, built ETL pipelines for large scale spectral data analyses for biometric satellite data, integrating QML into government applications.
+→ Conducted research, analyses, high performance computing, cluster allocation, spectral data configuration, data cleaning, and preprocessing across expiremental projects.
+
+**Research Systems Engineer – BrainWorx (Child Memory Lab)**  
 → Developed ML pipelines for fMRI datasets; automated preprocessing for PyTorch models  
 → Created brain-region heatmaps and ElasticNet regressions for memory studies  
 
