@@ -51,23 +51,6 @@ My work integrates **machine learning, Artificial Intelligence Engineering, Rese
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </p>
 
----
-
-### 💼 Experience Highlights
-**Software Automation Quality Assurance Analyst – Environment & Climate Change Canada**  
-→ Built Python/TypeScript automation frameworks for 100+ government web apps  
-→ Integrated Azure DevOps dashboards & ML data pipelines reducing QA effort by 45%
-
-**Software Quantum Machine Learning Engineer – Environment & Climate Change Canada**  
-→ Built Dashboards, built ETL pipelines for large scale spectral data analyses for biometric satellite data, integrating QML into government applications.
-→ Conducted research, analyses, high performance computing, cluster allocation, spectral data configuration, data cleaning, and preprocessing across expiremental projects.
-
-**Research Systems Engineer – BrainWorx (Child Memory Lab)**  
-→ Developed ML pipelines for fMRI datasets; automated preprocessing for PyTorch models  
-→ Created brain-region heatmaps and ElasticNet regressions for memory studies  
-
-**Full-Stack Developer – HawkShop (University Bookstore)**  
-→ Sole developer in Modernizing legacy NetSuite stacks, redesigning pages, implementing custom order pages (designs + functionalities + new features) and leading A/B testing and performance analytics
 
 ---
 
