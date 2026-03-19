@@ -14,7 +14,7 @@ Author: @submarinejuice
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 About Me -- See my portfolio website here: https://michellechala.vercel.app
 I’m a Computer Science & Psychology student (Computational + Cognitive Neuroscience Stream) + Business Management Option at Wilfrid Laurier University, passionate about bridging artificial intelligence, human cognition, and market analysis.
 My work integrates **machine learning, Artificial Intelligence Engineering, Research Systems Engineering, fMRI/EEG analysis, and web-scale automation systems** to understand — and extend — the boundaries of intelligent behavior.
 
