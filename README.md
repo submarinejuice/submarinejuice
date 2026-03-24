@@ -9,7 +9,9 @@
   <a href="mailto:MichelleChala555@gmail.com"><img src="https://img.shields.io/badge/Email-MichelleChala555%40gmail.com-red?style=flat&logo=gmail"/></a>
 </p>
 
+
 ---
+
 
 ### 👩‍💻 About Me
 
@@ -23,7 +25,11 @@ I'm a Computer Science & Psychology student (Computational Cognitive Neuroscienc
 - 📡 **Directed Study** — Building Neurelle: AI-integrated neuroimaging infrastructure (310K+ files, SQLite, LLM/RAG) under Dr. Fatahi
 
 ---
-![Uploading solar-system.svg…]()<svg viewBox="0 0 420 420" width="420" height="420" xmlns="http://www.w3.org/2000/svg">
+
+<div align="center">
+
+<img src="solar-system.svg" width="320" height="320" alt="∷ SOL SYSTEM · MSS-01 DISCOVERY · 28.4 AU ∷"/>
+<svg viewBox="0 0 420 420" width="420" height="420" xmlns="http://www.w3.org/2000/svg">
 <defs>
 
   <!-- ── Gradients ── -->
@@ -357,12 +363,6 @@ I'm a Computer Science & Psychology student (Computational Cognitive Neuroscienc
       font-family="'Courier New',Courier,monospace" font-size="8" fill="#00cc66" opacity="0.88">REC</text>
 
 </svg>
-
-
-<div align="center">
-
-<img src="solar-system.svg" width="320" height="320" alt="∷ SOL SYSTEM · MSS-01 DISCOVERY · 28.4 AU ∷"/>
-
 <sub><code>∷ SOL SYSTEM · MSS-01 DISCOVERY · 28.4 AU · SENSORS ACTIVE ∷</code></sub>
 
 </div>
