@@ -9,7 +9,7 @@
 <code>// PORTFOLIO · michellechala.vercel.app</code>
 <h2>Michelle Chala</h2>
 <code>∷ MSS-01 DISCOVERY · COMMANDER · ONLINE ∷</code>
-CS & Psychology @ Wilfrid Laurier — building at the edge of AI systems, cognitive neuroscience, and quantum ML. Engineering at ECCC across quantum ML, RAG pipelines, wildlife genomics, and QA automation. Researching brain networks at BrainWorx. Shipping [Neurelle](https://github.com/submarinejuice).
+CS & Psychology @ Wilfrid Laurier — building at the edge of AI systems, cognitive neuroscience, and quantum ML. Engineering at ECCC across quantum ML, RAG pipelines, wildlife genomics, and QA automation. Researching brain networks at BrainWorx. Shipping Neurelle - an AI Computational Neuroscience Research Assistant.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
