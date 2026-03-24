@@ -6,14 +6,10 @@
 <img src="solar-system.svg" width="300" height="300" alt="SOL SYSTEM · MSS-01 DISCOVERY"/>
 </td>
 <td valign="top" style="padding-left: 20px;">
-
 <code>// PORTFOLIO · michellechala.vercel.app</code>
 <h2>Michelle Chala</h2>
 <code>∷ MSS-01 DISCOVERY · COMMANDER · ONLINE ∷</code>
-
 CS & Psychology @ Wilfrid Laurier — building at the edge of AI systems, cognitive neuroscience, and quantum ML. Engineering at ECCC across quantum ML, RAG pipelines, wildlife genomics, and QA automation. Researching brain networks at BrainWorx. Shipping [Neurelle](https://github.com/submarinejuice).
-
-<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -23,18 +19,10 @@ CS & Psychology @ Wilfrid Laurier — building at the edge of AI systems, cognit
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michelle-chala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00cc66?style=flat&logo=vercel&logoColor=white)](https://michellechala.vercel.app)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:MichelleChala555@gmail.com)
-
-<br/><br/>
-
 <code>> NOW TRANSMITTING</code>
-
-<br/>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=00cc66&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&redirect=true)
 
 </td>
