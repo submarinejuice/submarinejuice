@@ -13,10 +13,7 @@ Author: @submarinejuice
 </p>
 
 ---
-<div align="center">
-<img src="solar-system.svg" width="340" height="340" alt="∷ SOL SYSTEM · MSS-01 DISCOVERY · 28.4 AU ∷"/>
-∷ SOL SYSTEM · MSS-01 DISCOVERY · 28.4 AU ∷
-</div>
+
 ---
 
 ### 👩‍💻 About Me -- See my portfolio website here: https://michellechala.vercel.app
