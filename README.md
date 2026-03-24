@@ -7,14 +7,27 @@
 <img src="solar-system.svg" width="300" height="300" alt="SOL SYSTEM · MSS-01 DISCOVERY"/>
 
 </td>
-<td valign="middle" style="padding-left: 24px;">
+<td valign="top" style="padding-left: 20px;">
 
-<h1>Michelle Chala</h1>
+<code>// PORTFOLIO · michellechala.vercel.app</code>
+
+<h2>Michelle Chala</h2>
+
 <code>∷ MSS-01 DISCOVERY · COMMANDER · ONLINE ∷</code>
 
 <br/><br/>
 
-CS & Psychology @ Wilfrid Laurier — building at the edge of AI systems, cognitive neuroscience, and quantum ML. Currently engineering at ECCC, researching brain networks, and shipping [Neurelle](https://github.com/submarinejuice).
+CS & Psychology @ Wilfrid Laurier — building at the edge of AI systems, cognitive neuroscience, and quantum ML. Engineering at ECCC across quantum ML, RAG pipelines, wildlife genomics, and QA automation. Researching brain networks at BrainWorx. Shipping [Neurelle](https://github.com/submarinejuice).
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 <br/><br/>
 
@@ -23,6 +36,10 @@ CS & Psychology @ Wilfrid Laurier — building at the edge of AI systems, cognit
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:MichelleChala555@gmail.com)
 
 <br/><br/>
+
+<code>> NOW TRANSMITTING</code>
+
+<br/>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=00cc66&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&redirect=true)
 
