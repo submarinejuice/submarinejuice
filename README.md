@@ -3,19 +3,13 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="320" valign="middle">
-
 <img src="solar-system.svg" width="300" height="300" alt="SOL SYSTEM · MSS-01 DISCOVERY"/>
-
 </td>
 <td valign="top" style="padding-left: 20px;">
 
 <code>// PORTFOLIO · michellechala.vercel.app</code>
-
 <h2>Michelle Chala</h2>
-
 <code>∷ MSS-01 DISCOVERY · COMMANDER · ONLINE ∷</code>
-
-<br/><br/>
 
 CS & Psychology @ Wilfrid Laurier — building at the edge of AI systems, cognitive neuroscience, and quantum ML. Engineering at ECCC across quantum ML, RAG pipelines, wildlife genomics, and QA automation. Researching brain networks at BrainWorx. Shipping [Neurelle](https://github.com/submarinejuice).
 
