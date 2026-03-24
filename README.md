@@ -13,6 +13,11 @@ Author: @submarinejuice
 </p>
 
 ---
+<div align="center">
+<img src="solar-system.svg" width="340" height="340" alt="∷ SOL SYSTEM · MSS-01 DISCOVERY · 28.4 AU ∷"/>
+∷ SOL SYSTEM · MSS-01 DISCOVERY · 28.4 AU ∷
+</div>
+---
 
 ### 👩‍💻 About Me -- See my portfolio website here: https://michellechala.vercel.app
 I’m a Computer Science & Psychology student (Computational + Cognitive Neuroscience Stream) + Business Management Option at Wilfrid Laurier University, passionate about bridging artificial intelligence, human cognition, and market analysis.
