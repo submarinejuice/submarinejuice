@@ -37,7 +37,6 @@ CS & Psychology @ Wilfrid Laurier — building at the edge of AI systems, cognit
 ### 👩‍💻 About Me
 
 - 🔬 **Quantum ML Engineer & QA Automation** @ *Environment & Climate Change Canada*
-  - RecordFlow (vision LLM/OCR/RAG), QuantumCast (QAOA weather optimization), Quantum Machine Learning applications in weather prediction - PoC, PYLET wildlife forensics
 - 🧠 **ML Research** @ *Child Memory Lab / BrainWorx* — fMRI brain network mapping (PyTorch · Nilearn · HPC)
 - 🌐 **Lead Full-Stack Dev** @ *The HawkShop*
 - 🚀 **Leadership** — Co-President @ *UnityED (Enactus Canada)* · VP Internal Relations @ *Laurier Computing Society*
