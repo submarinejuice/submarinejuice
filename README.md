@@ -75,4 +75,4 @@ CS & Psychology @ Wilfrid Laurier
 
 - 🧩 Synesthetic thinker — I visualize data patterns and algorithms as colors and shapes
 - ☕ Usually running on caffeine, deep learning papers, Jazz playlists, and a passion for photography
-- 🐱 Proud cat-mom · experimental chef · neurophilosophy literature lover
+- 🐱 Proud cat-mom · photographer · neurophilosophy literature lover
