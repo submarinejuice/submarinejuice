@@ -34,16 +34,6 @@ CS & Psychology @ Wilfrid Laurier
 
 ---
 
-### 👩‍💻 About Me
-
-- 🔬 **Quantum ML Engineer & QA Automation** @ *Environment & Climate Change Canada*
-- 🧠 **ML Research** @ *Child Memory Lab / BrainWorx* — fMRI brain network mapping (PyTorch · Nilearn · HPC)
-- 🌐 **Lead Full-Stack Dev** @ *The HawkShop*
-- 🚀 **Leadership** — Co-President @ *UnityED (Enactus Canada)* · VP Internal Relations @ *Laurier Computing Society*
-- 📡 **Directed Study** — Neurelle: AI neuroimaging infrastructure (310K+ files, SQLite, LLM/RAG) under Dr. Fatahi
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
