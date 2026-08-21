@@ -26,8 +26,7 @@ CS & Psychology @ Wilfrid Laurier
 [![Portfolio](https://img.shields.io/badge/Portfolio-00cc66?style=flat&logo=vercel&logoColor=white)](https://michellechala.vercel.app)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:MichelleChala555@gmail.com)
 <code>> NOW TRANSMITTING</code>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=true&bar_color=00cc66&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=default&show_offline=false&background_color=b21741&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </td>
 </tr>
 </table>
