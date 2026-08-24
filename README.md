@@ -4,6 +4,7 @@
 <tr>
 <td width="320" valign="middle">
 <img src="solar-system.svg" width="300" height="300" alt="SOL SYSTEM · MSS-01 DISCOVERY"/>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=default&show_offline=false&background_color=b21741&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </td>
 <td valign="top" style="padding-left: 20px;">
 <code>// PORTFOLIO · michellechala.vercel.app</code> 
