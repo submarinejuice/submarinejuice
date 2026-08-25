@@ -26,13 +26,18 @@ CS & Psychology @ Wilfrid Laurier
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/michelle-chala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00cc66?style=flat&logo=vercel&logoColor=white)](https://michellechala.vercel.app)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:MichelleChala555@gmail.com)
-<code>> NOW TRANSMITTING</code>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=default&show_offline=false&background_color=561029&interchange=false&profanity=true&hide_remaster=false&bar_color=ff8c82&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&redirect=true)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<code>> NOW TRANSMITTING</code>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&cover_image=true&theme=default&show_offline=false&background_color=561029&interchange=false&profanity=true&hide_remaster=false&bar_color=ff8c82&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=j7vl5tmtim9fqgz4sfqvs2ae5&redirect=true)
+
+</div>
 
 ---
 
